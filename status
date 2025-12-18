@@ -1,7 +1,10 @@
 {
-  "SoftwareVersion": "1.2",
+  "SoftwareVersion": "1.3",
   "SoftwareUrl": "https://www.dropbox.com/scl/fi/g77kvpqyrtpch8rccc4it/Derzko.zip?rlkey=h2bjetceoinxaih1m41cz0s7c&dl=1",
   "Status": "true",
-  "Changelog": "[+] new version",
-  "ExecFile": "Derzko by Rayan"
+  "Changelog": "[+] update\n[+] bug fixes",
+  "ExecFile": "Derzko by Rayan.exe",
+  "ExecArgs": "",
+  "RunAsAdmin": false,
+  "Delay": 0
 }
