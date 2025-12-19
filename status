@@ -1,6 +1,6 @@
 {
   "SoftwareVersion": "1.2",
-  "SoftwareUrl": "https://www.dropbox.com/scl/fi/uea1t2czl0a81932qcbfj/Derzko-executor-v1.2.zip?rlkey=7mo23ry42777zfrohmipqye4g&st=ty8eowqy&dl=1",
+  "SoftwareUrl": "https://www.dropbox.com/s/uea1t2czl0a81932qcbfj/Derzko-executor-v1.2.zip?dl=1",
   "Status": "true",
   "Changelog": "[+] Added ScriptHub\n[+] UI redesigned\n[+] Performance improvements",
   "ExecFile": "Derzko by Rayan.exe",
