@@ -1,10 +1,10 @@
 {
   "SoftwareVersion": "1.2",
-  "SoftwareUrl": "https://www.dropbox.com/scl/fi/g77kvpqyrtpch8rccc4it/Derzko.zip?dl=1",
-  "Status": "True",
-  "Changelog": "[+] Added ScriptHub for searching scripts\n[+] New tab system implemented\n[+] Completely redesigned UI\n[+] Updated to version-5b077c09380f4fe6\n[+] General bug fixes and performance improvements\n[+] Optimized loading times\n[+] Enhanced user experience and navigation\n[+] Minor visual tweaks and enhancements",
+  "SoftwareUrl": "https://www.dropbox.com/scl/fi/uea1t2czl0a81932qcbfj/Derzko-executor-v1.2.zip?rlkey=7mo23ry42777zfrohmipqye4g&st=ty8eowqy&dl=1",
+  "Status": "true",
+  "Changelog": "[+] Added ScriptHub\n[+] UI redesigned\n[+] Performance improvements",
   "ExecFile": "Derzko by Rayan.exe",
   "ExecArgs": "",
-  "RunAsAdmin": true,
+  "RunAsAdmin": false,
   "Delay": 0
 }
